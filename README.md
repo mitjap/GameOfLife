@@ -1,0 +1,4 @@
+GameOfLife
+==========
+
+Java GameOfLife implementation
